@@ -35,7 +35,7 @@ Install Docker
 
 ## Procedure
 
-###Step 1: Create a GitHub Repository
+### Step 1: Create a GitHub Repository
 
 Go to GitHub.com and create a new repository (like planet)
 Clone the repository to your local machine
@@ -278,4 +278,33 @@ kubectl argo rollouts get rollout planet --watch
 
 ## Screenshots
 
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2024-05-15 223236](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/8ae909c9-9266-4b02-b7de-ed7cdc919957)
+
+![Screenshot 2024-05-15 223228](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/5061d84b-a009-468a-9c7f-b76cc0eac2f9)
+![Screenshot 2024-05-15 223217](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/7d9381a8-f30a-48aa-a28f-59ce9d4aee77)
+![Screenshot 2024-05-15 215035](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/c2658192-0548-4cfc-9789-9470c43eb9f6)
+
+![Screenshot 2024-05-15 223209](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/49bd5e22-5804-4e9a-800d-f1979fe95d51)
+
+![Screenshot 2024-05-15 215007](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/3b943318-c305-4763-8f90-0569565df79b)
+![Screenshot 2024-05-15 214754](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/bb5d741d-640c-4f8d-8d7a-be3530901db2)
+![Screenshot 2024-05-15 214736](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/7e95ae05-a67a-4041-a88b-d2eef8d4f436)
+![Screenshot 2024-05-15 214239](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/b865990e-ce62-4f48-841a-d0e7ff3416b9)
+![Screenshot 2024-05-15 214224](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/b77748a3-2461-4a88-92d0-a33fdcd429b2)
+![Screenshot 2024-05-15 214133](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/bac1ed46-b7ac-4c4c-9080-f71c0ff2aaf5)
+![Screenshot 2024-05-15 213407](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/a1b01c22-c561-40ec-b7d2-2c150e83980d)
+![Screenshot 2024-05-15 130546](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/869481e8-5fb8-447b-820e-71ecf4fafbfb)
+![Screenshot 2024-05-15 130355](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/7abe67aa-f727-4a1c-a197-800a06ab4f05)
+![Screenshot 2024-05-15 125652](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/bee7d56d-b701-4a64-9db1-588a58354a48)
+![Screenshot 2024-05-15 123920](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/f12958b0-6702-48a5-b3ec-f2dc7bff57cb)
+![Screenshot 2024-05-15 130000](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/2d20210c-56b6-4892-9a50-68c8456df1fc)
+
+![Screenshot 2024-05-15 214500](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/d90f0727-b985-4dac-bfb7-8def51b271de)
+![Screenshot 2024-05-15 213434](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/e1613f8f-8a37-4e25-a334-a67926534b1e)
+![Screenshot 2024-05-15 213424](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/7dcb2fe2-6384-40af-9bce-d135329a740a)
+![Screenshot 2024-05-15 123852](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/673ff247-d455-44d6-b9e5-f1c2a17e2f47)
+
+![Screenshot 2024-05-15 214526](https://github.com/BejadiRajeshReddy18/AI-Planet/assets/64033035/9aeebcaa-46d7-4cbe-9a24-8da708b3a504)
+
+
+
