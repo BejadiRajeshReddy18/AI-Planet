@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
       - name: planet
-        image: docker.io/rajeshreddy0/my-gitops-app:v1
+        image: docker.io/rajeshreddy0/planet:v2
         ports:
         - containerPort: 5000
