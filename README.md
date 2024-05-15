@@ -35,7 +35,7 @@ Install Docker
 
 ## Procedure
 
-Step 1: Create a GitHub Repository
+###Step 1: Create a GitHub Repository
 
 Go to GitHub.com and create a new repository (like planet)
 Clone the repository to your local machine
@@ -82,28 +82,38 @@ Create a Dockerfile with the following content:
 ```
 Build the Docker image:
 
-```docker build -t planet . ```
+```bash
+docker build -t planet .
+```
 
 Run the container locally to test the application:
 
-```docker run -p 5000:5000 planet ```
+```bash
+docker run -p 5000:5000 planet
+```
 
 ### Step 4: Push the Docker Image to a Registry
 
 Create an account on a public container registry (e.g., Docker Hub, GitHub Container Registry).
 Tag the Docker image with your registry URL:
 
-```docker tag planet your-registry-url/planet:v1 ```
+```bash
+docker tag planet your-registry-url/planet:v1
+```
 
 Push the image to the registry:
 
-```docker push your-registry-url/planet:v1 ```
+```bash
+docker push your-registry-url/planet:v1
+```
 
 ### Step 5: Set Up Minikube and Install ArgoCD
 
 Start Minikube:
 
-```minikube start ```
+```bash
+minikube start
+```
 
 Install ArgoCD:
 
