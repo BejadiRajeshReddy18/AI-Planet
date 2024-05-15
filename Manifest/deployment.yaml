@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: planet
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: planet
+  template:
+    metadata:
+      labels:
+        app: planet
+    spec:
+      containers:
+      - name: planet
+        image: docker.io/rajeshreddy0/planet:v1
+        ports:
+        - containerPort: 5000
