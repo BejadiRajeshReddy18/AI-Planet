@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Rollout
 metadata:
-  name: my-gitops-app
+  name: planet
 spec:
   replicas: 1
   strategy:
@@ -11,14 +11,14 @@ spec:
       - pause: {}
   selector:
     matchLabels:
-      app: my-gitops-app
+      app: planet
   template:
     metadata:
       labels:
-        app: my-gitops-app
+        app: planet
     spec:
       containers:
-      - name: my-gitops-app
-        image: your-registry-url/my-gitops-app:v1
+      - name: planet
+        image: docker.io/rajeshreddy0/my-gitops-app:v1
         ports:
         - containerPort: 5000
