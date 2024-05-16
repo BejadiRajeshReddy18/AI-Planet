@@ -277,7 +277,6 @@ kubectl argo rollouts get rollout planet --watch
 #### Python web application is deployed using GitOps principles with ArgoCD and Argo Rollouts, implementing a canary release strategy
 
 ## Screenshots
-## Screenshots
 
 
 ## Commands
